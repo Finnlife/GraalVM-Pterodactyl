@@ -3,7 +3,7 @@
 # Environment: Java
 # Minimum Panel Version: 0.6.0
 # ----------------------------------
-FROM lustefaniak/graalvm:17
+FROM lustefaniak/graalvm:17-21.3.0
 
 MAINTAINER DEV4LIFE, <admin@dev4life.de>
 
